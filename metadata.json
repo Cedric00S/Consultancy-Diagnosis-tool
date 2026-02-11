@@ -1,0 +1,7 @@
+{
+  "name": "OrgConsult - Organizational Diagnosis Tool",
+  "description": "A POC for organizational problem diagnosis through interactive AI-led interviews with stakeholders, synthesizing findings into actionable hypotheses.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
